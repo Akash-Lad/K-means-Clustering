@@ -11,3 +11,11 @@ The less variation we have within clusters, the more homogeneous (similar) the d
 - Compute the sum of the squared distance between data points and all centroids.
 - Assign each data point to the closest cluster (centroid).
 - Compute the centroids for the clusters by taking the average of the all data points that belong to each cluster.
+
+## Applications of K-Means Clustering
+
+1) Vector Quantization
+
+2) Cluster Analysis
+
+3) Feature Learning
